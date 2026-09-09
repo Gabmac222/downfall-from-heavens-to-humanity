@@ -12,15 +12,27 @@ An original fantasy action RPG in development with **Godot Engine**, featuring a
 
 ## The trailer
 
-[![Watch the 90-second DOWNFALL trailer](assets/poster.jpg)](https://gabmac222.github.io/downfall-from-heavens-to-humanity/#trailer)
+[![Watch the DOWNFALL trailer](assets/poster.jpg)](https://gabmac222.github.io/downfall-from-heavens-to-humanity/#trailer)
 
-**[Watch the trailer on the showcase page](https://gabmac222.github.io/downfall-from-heavens-to-humanity/#trailer)** · [Download the web trailer](assets/trailer.mp4)
+**[Watch the trailer on the showcase page](https://gabmac222.github.io/downfall-from-heavens-to-humanity/#trailer)** · [Download the trailer](assets/trailer.mp4)
 
-The **1-minute, 30-second gameplay, world, and story trailer** features footage captured in Godot with staged cameras and gameplay inputs, accompanied by an original instrumental score.
+Follow Caelum down the mountain, discover the memories Heaven erased, and meet the champions standing between him and a human life.
 
-Download **DOWNFALL_Gameplay_World_Trailer_90s.mp4** from this repository's **Releases** section.
+[The original trailer is also available in Releases.](https://github.com/Gabmac222/downfall-from-heavens-to-humanity/releases/tag/trailer-v1)
 
-**Video:** 1920 × 1080 delivery, 30 FPS, H.264 MP4 with stereo audio. The native 1280 × 720 capture is upscaled for the final video.
+## Why I’m building this game
+
+DOWNFALL began with a feeling I wanted to express: the weight of endless work, of living under expectations handed down from above, and of searching for room to follow my own vision. I wanted to build something that could give that feeling a world, a story, and a voice.
+
+Through this game, I want to explore what it means to become human. I keep returning to the things we can lose sight of while fulfilling our duties: the freedom to choose, the space to feel, the people we remember, and the time we give to one another. Those questions are at the heart of Caelum’s journey from Heaven toward humanity.
+
+I also draw inspiration from the heroes who came before us. I want to honor their contributions and remember the people behind their names: the hopes, struggles, and sacrifices that a title cannot fully hold. God bless them, and may their contributions be remembered with gratitude.
+
+In DOWNFALL, the champions bound in Heaven give these ideas a fictional form. Their chains and lost memories reflect my questions about duty, identity, and what remains of a person when others decide their purpose.
+
+Building this game is my way of connecting those questions to my own experience. I want to share a vision that feels personal: a journey toward understanding ourselves, honoring those before us, and finding the freedom to live with compassion and purpose.
+
+— **Retro B.O.T.**
 
 ## The story
 
