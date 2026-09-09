@@ -12,9 +12,9 @@ An original fantasy action RPG in development with **Godot Engine**, featuring a
 
 ## The trailer
 
-[![Watch the 90-second DOWNFALL trailer](assets/poster.jpg)](https://Gabmac222.github.io/downfall-from-heavens-to-humanity/#trailer)
+[![Watch the 90-second DOWNFALL trailer](assets/poster.jpg)](https://gabmac222.github.io/downfall-from-heavens-to-humanity/#trailer)
 
-**[Watch the trailer on the showcase page](https://Gabmac222.github.io/downfall-from-heavens-to-humanity/#trailer)** · [Download the web trailer](assets/trailer.mp4)
+**[Watch the trailer on the showcase page](https://gabmac222.github.io/downfall-from-heavens-to-humanity/#trailer)** · [Download the web trailer](assets/trailer.mp4)
 
 The **1-minute, 30-second gameplay, world, and story trailer** features footage captured in Godot with staged cameras and gameplay inputs, accompanied by an original instrumental score.
 
