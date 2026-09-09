@@ -22,15 +22,13 @@ Follow Caelum down the mountain, discover the memories Heaven erased, and meet t
 
 ## Why I’m building this game
 
-DOWNFALL began with a feeling I wanted to express: the weight of endless work, of living under expectations handed down from above, and of searching for room to follow my own vision. I wanted to build something that could give that feeling a world, a story, and a voice.
+For me, it starts with the endless shackles of work handed down from above. I wanted to be different. I wanted to show my own vision, and this game is how I’m doing that.
 
-Through this game, I want to explore what it means to become human. I keep returning to the things we can lose sight of while fulfilling our duties: the freedom to choose, the space to feel, the people we remember, and the time we give to one another. Those questions are at the heart of Caelum’s journey from Heaven toward humanity.
+Defining what’s missing in our lives, and what it means to become human, is what I wanted to explore through DOWNFALL. I relate that feeling to Caelum’s journey from Heaven toward humanity.
 
-I also draw inspiration from the heroes who came before us. I want to honor their contributions and remember the people behind their names: the hopes, struggles, and sacrifices that a title cannot fully hold. God bless them, and may their contributions be remembered with gratitude.
+I also follow the history of old heroes and bring their stories into the world I’m building. God bless them and their contributions. In DOWNFALL, I imagine heroes who are already shackled above, still bound to duty. Their stories are part of how I express that same feeling of wanting a different path.
 
-In DOWNFALL, the champions bound in Heaven give these ideas a fictional form. Their chains and lost memories reflect my questions about duty, identity, and what remains of a person when others decide their purpose.
-
-Building this game is my way of connecting those questions to my own experience. I want to share a vision that feels personal: a journey toward understanding ourselves, honoring those before us, and finding the freedom to live with compassion and purpose.
+I just relate everything here: the work, the old heroes, the shackles, and the wish to become human. This is what I wanted to show through this game. My own vision.
 
 — **Retro B.O.T.**
 
