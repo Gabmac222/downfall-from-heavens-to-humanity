@@ -20,6 +20,17 @@ Follow Caelum down the mountain, discover the memories Heaven erased, and meet t
 
 [The original trailer is also available in Releases.](https://github.com/Gabmac222/downfall-from-heavens-to-humanity/releases/tag/trailer-v1)
 
+## Latest world update — September 2026
+
+**[Explore 57 current prototype views](https://gabmac222.github.io/downfall-from-heavens-to-humanity/updates/latest-world-update/)**
+
+- **21 regional house designs** across seven styles, placed across **54 homes** with grounded terraces, clear entrances and supported lamps.
+- **Seven hero sculptures and three winged guardian designs**, created in Blender with regional relics, draped clothing and layered feathers.
+- Cloud banks around the highest stages, fading during the descent; fitted supports for shelters and civic structures.
+- Improved moving-camera clearance around shrine columns and gate arches.
+
+The refinement review recorded **6,431 passing checks across 20 suites**, including a five-minute native run with full motion coverage at ten locations. Four isolated frame-time spikes were recorded on the local Apple M5; these results describe that scripted review, not a performance guarantee. The gallery includes the review's scope and remaining prototype limitations.
+
 ## Why I’m building this game
 
 For me, it starts with the endless shackles of work handed down from above. I wanted to be different. I wanted to show my own vision, and this game is how I’m doing that.
@@ -51,6 +62,6 @@ Recover the human memories Heaven erased. Confront the champions bound to its or
 
 The trailer presents the current playable prototype. The complete campaign and remaining champion encounters are still in development. Release date unannounced.
 
-This repository shares the project overview, logo, trailer, and public showcase page. It does not distribute a playable build.
+This repository shares the project overview, logo, trailer, development updates, and public showcase pages. It does not distribute a playable build.
 
 **Developed by Retro B.O.T. · Built with Godot Engine · Character assets created in Blender**

@@ -61,6 +61,13 @@ figcaption { display: flex; justify-content: space-between; align-items: center;
 .transcript-content p { margin-top: 0; }
 .transcript ol { padding: 0; margin: 0; list-style: none; }
 .transcript li { padding: 7px 0; }
+.world-updates { margin-top: 72px; padding-block: 36px 42px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.world-updates h2 { max-width: 760px; margin: 0 0 20px; font: 400 clamp(28px, 3vw, 36px)/1.35 Georgia, "Times New Roman", serif; }
+.updates-intro { max-width: 780px; margin: 0 0 28px; color: var(--muted); font-size: 14px; }
+.updates-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px; }
+.updates-grid h3 { margin: 0 0 10px; font: 400 20px/1.4 Georgia, "Times New Roman", serif; }
+.updates-grid p { margin: 0; color: var(--muted); font-size: 13px; }
+.updates-link { display: inline-flex; align-items: center; gap: 18px; margin-top: 28px; min-height: 44px; font-size: 13px; }
 .vision { margin-top: 72px; padding: 48px; border: 1px solid var(--line); background: #15282c80; }
 .vision-content { max-width: 760px; margin-inline: auto; }
 .vision h2 { margin: 0 0 28px; font: 400 clamp(28px, 3vw, 36px)/1.3 Georgia, "Times New Roman", serif; }
@@ -126,6 +133,8 @@ figcaption { display: flex; justify-content: space-between; align-items: center;
   #film-description { font-size: 11px; }
   .download { padding-left: 0; }
   .vision { margin-top: 48px; padding: 27px 22px; }
+  .world-updates { margin-top: 48px; padding-block: 28px; }
+  .updates-grid { grid-template-columns: 1fr; gap: 24px; }
   .vision h2 { font-size: 29px; margin-bottom: 22px; }
   .vision-copy { font-size: 14px; }
   .story { grid-template-columns: 1fr; gap: 24px; padding-block: 61px 49px; }
