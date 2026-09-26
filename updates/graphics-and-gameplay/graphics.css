@@ -1,0 +1,18 @@
+.update-intro{padding:64px 0 46px;max-width:950px}
+.update-intro h1{margin:0 0 22px;font:400 clamp(38px,5.2vw,64px)/1.15 Georgia,serif}
+.update-intro .lead{max-width:880px;margin:0 0 15px;color:var(--text);font:400 clamp(17px,2vw,21px)/1.6 Georgia,serif}
+.update-note{max-width:850px;color:var(--muted);font-size:13px}
+.update-cta{display:inline-flex;gap:14px;align-items:center;margin-top:13px;min-height:44px;font-size:12px;text-decoration:none;letter-spacing:.07em;text-transform:uppercase}
+.update-section{padding:48px 0 55px;border-top:1px solid var(--line)}
+.update-section h2{margin:0 0 14px;font:400 clamp(28px,3.5vw,42px)/1.25 Georgia,serif}
+.section-copy{max-width:850px;margin:0 0 26px;color:var(--muted);font-size:14px}
+.region{margin:34px 0 46px}.region:last-child{margin-bottom:0}
+.region h3{margin:0 0 6px;font:400 23px/1.35 Georgia,serif}.region>p{max-width:820px;margin:0 0 16px;color:var(--muted);font-size:13px}
+.comparison{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+.comparison figure,.wide-study{margin:0;border:1px solid var(--line);background:#12252a}
+.comparison img,.wide-study img{display:block;width:100%;height:auto}
+.comparison figcaption,.wide-study figcaption{padding:13px 16px;border-top:1px solid var(--line);color:var(--muted);font-size:12px}
+.study img{max-height:640px;object-fit:contain;background:#0d181f}
+.wide-study img{max-height:720px;object-fit:contain;background:#0d181f}
+.update-section video{border:1px solid var(--line)}
+@media(max-width:700px){.update-intro{padding:42px 0 32px}.update-section{padding:36px 0 42px}.comparison{grid-template-columns:1fr;gap:16px}.region{margin:28px 0 38px}.region h3{font-size:21px}}

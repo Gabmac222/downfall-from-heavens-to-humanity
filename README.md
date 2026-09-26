@@ -20,7 +20,18 @@ Follow Caelum down the mountain, discover the memories Heaven erased, and meet t
 
 [The original trailer is also available in Releases.](https://github.com/Gabmac222/downfall-from-heavens-to-humanity/releases/tag/trailer-v1)
 
-## Latest world update — September 2026
+## Latest graphics and gameplay update — 26 September 2026
+
+**[Explore the native world comparison and character studies](https://gabmac222.github.io/downfall-from-heavens-to-humanity/updates/graphics-and-gameplay/)**
+
+- Softer upper and lower regional light, broader ground color variation, and grouped planting near refuges.
+- Stormhaven's warm house lights now sit at exterior lanterns against its blue rain.
+- Caelum's revised Blender model supplies the playable 2.5D sprites shown in the trailer; the update also shows clearly labeled original concept studies.
+- The 90-second trailer above has been recaptured from the updated game and shows travel and combat with Daran, Maelis, and Raigen.
+
+The [before-and-after captures](https://gabmac222.github.io/downfall-from-heavens-to-humanity/updates/graphics-and-gameplay/#world) come from identical in-game cameras at three refuge approaches. The illustrated character and world studies are art direction resources, not screenshots or new playable levels. The complete campaign remains in development.
+
+## Earlier world update — 11 September 2026
 
 **[Explore 57 current prototype views](https://gabmac222.github.io/downfall-from-heavens-to-humanity/updates/latest-world-update/)**
 
