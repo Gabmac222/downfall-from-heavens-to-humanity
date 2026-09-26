@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#101923">
+  <meta name="description" content="Explore new DOWNFALL visual novel portrait expressions and an original Blender-built blade reliquary creature.">
+  <title>Voices and creatures · DOWNFALL update</title>
+  <link rel="icon" href="../../assets/mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../../style.css">
+  <link rel="stylesheet" href="dialogue.css">
+</head>
+<body>
+  <a class="skip-link" href="#update-heading">Skip to the update</a>
+  <header class="site-header wrap">
+    <a class="brand" href="../../index.html" aria-label="DOWNFALL home"><img src="../../assets/mark.svg" width="32" height="36" alt=""><span>RETRO B.O.T.</span></a>
+    <nav aria-label="Main navigation"><a href="../../index.html">The game</a><a href="#portraits">Portraits</a><a href="#reliquary">Blade reliquary</a><a href="../graphics-and-gameplay/">World update</a></nav>
+  </header>
+  <main class="wrap">
+    <section class="update-intro" aria-labelledby="update-heading">
+      <p class="eyebrow">DOWNFALL · Character and creature design · <time datetime="2026-09-27">27 September 2026</time></p>
+      <h1 id="update-heading">A face behind the armor. A blade without a hand.</h1>
+      <p class="lead">Caelum, Daran, Maelis and Raigen now have neutral, hurt and recovered-memory portrait studies. An original blade reliquary joins the regional creature set with an editable Blender source and frame-sampled attack art.</p>
+      <p class="update-note">The portraits and dialogue screen below are generated design studies with editable web text. The playable world now uses a brief hurt-to-memory portrait card when a champion is released. The reliquary sheet is rendered from the project's Blender source; this page does not represent a new story chapter.</p>
+    </section>
+
+    <section id="portraits" class="update-section" aria-labelledby="portrait-heading">
+      <p class="eyebrow">01 / Visual novel direction</p>
+      <h2 id="portrait-heading">Emotion at the moment memory returns.</h2>
+      <p class="section-copy">Select a character, then change the expression. Hurt briefly recoils; the memory state lifts into relief. The motion is restrained and respects reduced-motion settings. The dialogue words outside the champion release lines are preview copy.</p>
+      <div class="cast-switch" role="group" aria-label="Choose a character">
+        <button type="button" data-character="caelum" aria-pressed="true">Caelum</button>
+        <button type="button" data-character="daran" aria-pressed="false">Daran</button>
+        <button type="button" data-character="maelis" aria-pressed="false">Maelis</button>
+        <button type="button" data-character="raigen" aria-pressed="false">Raigen</button>
+      </div>
+      <div class="novel-screen">
+        <img id="portrait" class="portrait" src="images/caelum_vn.webp" width="768" height="1152" alt="Caelum, neutral expression">
+        <div class="expression-switch" role="group" aria-label="Choose an expression">
+          <button type="button" data-expression="vn" aria-pressed="true">Neutral</button>
+          <button type="button" data-expression="hurt" aria-pressed="false">Hurt</button>
+          <button type="button" data-expression="memory" aria-pressed="false">Memory</button>
+        </div>
+        <p id="speaker" class="speaker">CAELUM · THE UNBOUND</p>
+        <p id="dialogue" class="dialogue" aria-live="polite">I will choose a finite life, even if Heaven calls that a fall.</p>
+      </div>
+      <p class="update-note">These twelve portrait states follow the existing Blender character identities. They are concept PNGs in the project; this page serves small WebP copies totaling about 1.8 MiB with the UI and creature reviews.</p>
+      <figure class="gameplay-clip"><img loading="lazy" src="images/release_card_native.webp" width="1024" height="640" alt="Native Godot world screenshot showing Daran's recovered-memory portrait and release line in a dark dialogue card"><figcaption>Native Godot release card · the line comes from Daran's authored champion profile. This staged screenshot reviews the HUD at First Light Shrine.</figcaption></figure>
+    </section>
+
+    <section id="reliquary" class="update-section" aria-labelledby="reliquary-heading">
+      <p class="eyebrow">02 / Original 3D creature</p>
+      <h2 id="reliquary-heading">The blade reliquary.</h2>
+      <p class="section-copy">An empty celestial casket suspends two blades around a living core. Its light move points both edges into a narrow thrust; its red heavy opens them into a wider strike. A Blender-authored source drives eight facing directions and seven actions, with 16 loop frames or 24 one-shot frames per direction. The attacks retain explicit preparation, contact and recovery phases in Godot.</p>
+      <figure class="gameplay-clip"><video controls playsinline preload="none" poster="images/reliquary_gameplay.webp" width="960" height="600" aria-label="Six-second native Godot excerpt showing the reliquary thrust, red heavy attack and Caelum's response"><source src="reliquary_gameplay.mp4" type="video/mp4">Open the <a href="reliquary_gameplay.mp4">gameplay excerpt</a>.</video><figcaption>Native Godot combat excerpt · separate attack choices and live hurtbox contact in a staged arena.</figcaption></figure>
+      <figure class="creature-sheet"><img loading="lazy" src="images/monster_preflight.webp" width="1024" height="896" alt="Blender preflight contact sheet: six existing creatures and a new gold and ivory blade reliquary, each shown in eight motion samples"><figcaption>Blender creature preflight · the reliquary is the bottom row. A contact sheet of authored poses, not a gameplay screenshot.</figcaption></figure>
+      <p class="update-note">Three regional color variants appear in the iron, knights and storms pools. The regional smoke run passed 413 checks with zero failures, including atlas loading, the separate red heavy attack and bounded shared sprite memory. The world smoke run passed 89 checks, including the new release card.</p>
+    </section>
+  </main>
+  <footer class="site-footer wrap"><div><p class="footer-credit">Developed by <strong>Retro B.O.T.</strong></p><p>Original game assets and clearly labeled design studies. DOWNFALL is in development.</p></div><a href="../../index.html#trailer">Watch the trailer <span aria-hidden="true">→</span></a></footer>
+  <script>
+    const cast = {
+      caelum: {name:"CAELUM · THE UNBOUND", lines:{vn:"I will choose a finite life, even if Heaven calls that a fall.",hurt:"The wound is mine. So is the choice to keep going.",memory:"A small act of care can outlast a decree."}},
+      daran: {name:"DARAN · THE SHOREBOUND", lines:{vn:"I was told to keep this road empty.",hurt:"I remember boats below, but I cannot remember who ordered me to turn them back.",memory:"The shore was a home, never a cage."}},
+      maelis: {name:"MAELIS · THE CINDERED STANDARD", lines:{vn:"The standard tells them where to stand.",hurt:"I can still hear the child at the wall.",memory:"The banner showed a way. It never had the right to choose it."}},
+      raigen: {name:"RAIGEN · THE SLUICE MARSHAL", lines:{vn:"A wall can hold the flood. Can it hold the living?",hurt:"I remember workers opening the gate.",memory:"A wall that traps the living has failed. Leave one channel open."}}
+    };
+    let character="caelum", expression="vn";
+    const portrait=document.getElementById("portrait"), speaker=document.getElementById("speaker"), dialogue=document.getElementById("dialogue");
+    function render(){portrait.src=`images/${character}_${expression}.webp`;portrait.alt=`${character}, ${expression==="vn"?"neutral":expression} expression`;portrait.dataset.expression="";void portrait.offsetWidth;portrait.dataset.expression=expression;speaker.textContent=cast[character].name;dialogue.textContent=cast[character].lines[expression];document.querySelectorAll("[data-character]").forEach(button=>button.setAttribute("aria-pressed",String(button.dataset.character===character)));document.querySelectorAll("[data-expression]").forEach(button=>button.setAttribute("aria-pressed",String(button.dataset.expression===expression)))}
+    document.querySelectorAll("[data-character]").forEach(button=>button.addEventListener("click",()=>{character=button.dataset.character;expression="vn";render()}));
+    document.querySelectorAll("[data-expression]").forEach(button=>button.addEventListener("click",()=>{expression=button.dataset.expression;render()}));
+  </script>
+</body>
+</html>

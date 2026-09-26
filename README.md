@@ -14,13 +14,24 @@ An original fantasy action RPG in development with **Godot Engine**, featuring a
 
 [![Watch the DOWNFALL trailer](assets/poster.jpg)](https://gabmac222.github.io/downfall-from-heavens-to-humanity/#trailer)
 
-**[Watch the trailer on the showcase page](https://gabmac222.github.io/downfall-from-heavens-to-humanity/#trailer)** · [Download the trailer](assets/trailer.mp4)
+**[Watch the trailer on the showcase page](https://gabmac222.github.io/downfall-from-heavens-to-humanity/#trailer)** · [Download the 720p web trailer](assets/trailer_720p_v4.mp4)
 
 Follow Caelum down the mountain, discover the memories Heaven erased, and meet the champions standing between him and a human life.
 
 [The original trailer is also available in Releases.](https://github.com/Gabmac222/downfall-from-heavens-to-humanity/releases/tag/trailer-v1)
 
-## Latest graphics and gameplay update — 26 September 2026
+## Portraits and blade reliquary — 27 September 2026
+
+**[Explore the visual novel portraits and original creature](https://gabmac222.github.io/downfall-from-heavens-to-humanity/updates/dialogue-and-creatures/)**
+
+- Neutral, hurt and recovered-memory concepts for Caelum, Daran, Maelis and Raigen, with a small interactive dialogue presentation.
+- A new blade reliquary built in Blender, rendered into eight-direction, frame-sampled creature actions and added to three regional monster pools. A six-second native Godot combat excerpt plays on the update page.
+- The playable world uses a brief hurt-to-memory portrait card when each champion is released. The wider dialogue interface remains a design study.
+- The public page uses about 1.8 MiB of WebP images and a 0.26 MB gameplay clip that loads on demand. Its 720p trailer is about 14.3 MB, down from the previous 51.5 MB web file. The original higher-bitrate trailer remains in Releases.
+
+The regional creature and release card are playable in the local Godot prototype; this repository continues to be a public showcase rather than a game download.
+
+## Graphics and gameplay update — 26 September 2026
 
 **[Explore the native world comparison and character studies](https://gabmac222.github.io/downfall-from-heavens-to-humanity/updates/graphics-and-gameplay/)**
 
